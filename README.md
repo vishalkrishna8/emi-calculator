@@ -1,15 +1,18 @@
 ## EMI calculator
 
-## Technologies used
+This is a simple EMI calculator that helps calculate the Equated Monthly Installment for a loan.
 
+
+## Technologies used
 
 This website was built using the following technologies:
 
-•℅HTML
+• HTML
 
 • CSS
 
 • JavaScript
+
 
 ## Installation
 
@@ -19,6 +22,7 @@ To install and run the website locally, follow these steps:
 • Clone the repository
 
 • Open the website in a browser: http://localhost:3000
+
 
 ## Contributing
 
@@ -33,7 +37,7 @@ Contributions to the website are welcome. To contribute, follow these steps:
 
 4. Create a pull request
 
-## License
 
+## License
 
 This website is licensed under the MIT License. See the LICENSE file for more information.
