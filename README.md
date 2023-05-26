@@ -3,10 +3,12 @@
 
 This is a simple EMI calculator that helps calculate the Equated Monthly Installment for a loan.
 
+
 <!-- ## Live demo -->
 
 
 ## Technologies used
+
 
 This website was built using the following technologies:
 
@@ -38,4 +40,4 @@ Contributions to the website are welcome. To contribute, follow these steps:
 
 3. Push to the branch: git push origin new-feature
 
-4. Create a pull request
+4. Create a pull request. 
