@@ -38,6 +38,4 @@ Contributions to the website are welcome. To contribute, follow these steps:
 4. Create a pull request
 
 
-## License
-
 .
