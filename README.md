@@ -4,9 +4,6 @@
 This is a simple EMI calculator that helps calculate the Equated Monthly Installment for a loan.
 
 
-<!-- ## Live demo -->
-
-
 ## Technologies used
 
 
