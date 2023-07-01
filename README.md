@@ -37,4 +37,4 @@ Contributions to the website are welcome. To contribute, follow these steps:
 
 3. Push to the branch: git push origin new-feature
 
-4. Create a pull request and use as you want.
+4. Create a pull request. 
