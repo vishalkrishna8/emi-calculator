@@ -14,8 +14,7 @@ This website was built using the following technologies:
 • CSS
 
 • JavaScript  
-
-• React js -->
+-->
 
 
 ## Installation
